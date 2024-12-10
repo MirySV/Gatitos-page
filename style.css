@@ -1,0 +1,21 @@
+body{
+    background-color: chocolate;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dosgatos{
+    width: 200px;
+    border-radius: 40px;
+}
+
+.ungato{
+    width: 350px;
+    border-radius: 100px;
+    border: dotted;
+    color: rgb(104, 28, 0);
+}
+
+.imagenes{
+    text-align: center;
+}
